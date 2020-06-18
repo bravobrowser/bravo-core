@@ -1,0 +1,8 @@
+{
+  "version":"123456",
+  "enabled":true,
+  "download_url":"https://raw.githubusercontent.com/bravobrowser/bravo-core/master/bravium.apk",
+  "apk_size":1024,
+  "core_32_size":1024,
+  "core_64_size":1024
+}
