@@ -1,8 +1,8 @@
 {
-  "version":"1.0.0.117",
+  "version":"1.0.0.118",
   "disable_versions":"1.0.0.116",
   "download_url":"https://raw.githubusercontent.com/bravobrowser/bravo-core/master/bravium.apk",
-  "apk_size":46127225,
+  "apk_size":46118288,
   "core_32_size":55450600,
   "core_64_size":89551880
 }
